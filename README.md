@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vigunh Saini</h1>
-<h3 align="center">Full Stack Developer & Problem Solver from India 🇮🇳</h3>
+<h3 align="center">Full Stack Developer & Problem Solver currently in my 2nd Year </h3>
 
 ---
 
@@ -16,10 +16,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_LINK" target="blank">
+<a href="https://www.linkedin.com/in/vigunh-saini-mari-4a3ab3324/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="YOUR_LEETCODE_LINK" target="blank">
+<a href="https://leetcode.com/u/VigunhSainiMari/" target="blank">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
 </a>
 </p>
