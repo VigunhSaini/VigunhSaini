@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vigunh Saini</h1>
-<h3 align="center">Full Stack Developer & Problem Solver currently in my 2nd Year </h3>
+<h1 align="center">Hi 👋, I'm Vigunh Saini Mari</h1>
+<h3 align="center">Full Stack Developer & Problem Solver currently completing 2nd Year </h3>
 
 ---
 
