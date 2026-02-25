@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vigunh Saini</h1>
+<h3 align="center">Full Stack Developer & Problem Solver from India 🇮🇳</h3>
 
-<!--
-**VigunhSaini/VigunhSaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Strong in **C++, Java & Python**
+- 🌐 Building web apps using **React & Node.js**
+- 🧠 Focused on **Data Structures & Algorithms**
+- 🔧 Exploring **DevOps & backend architecture**
+- 🎯 Goal: Become a well-rounded Software Engineer
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="YOUR_LINKEDIN_LINK" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="YOUR_LEETCODE_LINK" target="blank">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+</a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,react,nodejs,express,mongodb,git,linux,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Currently Working On
+
+- 🔥 Improving DSA consistency
+- ⚛️ Building full-stack projects
+- 🚀 Strengthening backend fundamentals
+
+---
+
+⭐️ From [Vigunh Saini](https://github.com/YOUR_USERNAME)
