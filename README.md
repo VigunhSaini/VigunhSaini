@@ -54,4 +54,10 @@
 
 ---
 
-⭐️ From [Vigunh Saini](https://github.com/YOUR_USERNAME)
+## 🐍 GitHub Contribution Snake
+
+![Snake animation](https://github.com/VigunhSaini/VigunhSaini/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+⭐️ From [Vigunh Saini](https://github.com/VigunhSaini)
